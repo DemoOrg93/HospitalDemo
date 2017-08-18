@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">DOCTOR</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search</string>
+    <string name="search">Search</string>
+
+
+    <string name="hospital_description">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+  Bir Hospital (बीर अस्पताल) is the oldest and one of the busiest hospitals in Nepal. It was established in July 1889 by Bir Shamsher Jang Bahadur Rana. It is located at the center of Kathmandu city. The hospital is run by the National Academy of Medical Sciences, a government agency since 2003.
+The hospital provides medical and surgical treatments. It current has a capacity of 535 beds.[citation needed]
+It provides some post graduate medical training e.g. general surgery, internal medicine, orthopaedic surgery, pathology etc. It has become an Internship centre for students who had passed MBBS from China and Russia and other parts of the world
+</body>
+</html>
+]]>
+    </string>
+    <string name="adescription">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+ A teaching hospital is a hospital or medical center that provides clinical education and training to future and current health professionals. Teaching hospitals are often affiliated with medical schools and work closely with medical students throughout their period of matriculation, and especially during their clerkship (internship) years. In most cases, teaching hospitals also offer Graduate Medical Education (GME)/ physician residency programs, where medical school graduates train under a supervising (attending) physician to assist with the coordination of care.
+In addition to offering medical education to medical students and physician residents, many teaching hospitals also serve as research institutes.
+</body>
+</html>
+]]>
+    </string>
+    <string name="bdescription">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+ Patan Hospital is a teaching hospital for the Patan Academy of Health Sciences. Patan Hospital is one of the largest hospitals in Nepal.[citation needed] It uses modern equipment and facilities to provide treatment for almost 320,000 outpatients and 20,000 inpatients every year. Patan Hospital staff conduct more than 10,000 operations annually.
+The hospital has been operating with an annual revenue of around US $3.5 million.
+It serves people from every district of Nepal, from the remote villages as well as from the Kathmandu valley. Patan Hospital has 320 beds, which has increased to 450, after the completion of its maternity ward building construction
+</body>
+</html>
+]]>
+    </string>
+    <string name="cdescription">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+ We are pioneer of private healthcare arena, and continue to lead in many avenues.
+Our services cater to wide spectrum of the population and the needy avail of our services extensively.
+Our affiliation with Kathmandu University opens new avenues for further growth and excellence in healthcare and education.
+Vision
+"To become a leading healthcare provider in the region and build a suitable platform for young talented doctors and health personnel to assume future leadership roles"
+Mission
+"Quality healthcare is our obligation toward the society and we are committed to provide it through competent personnel, world class medical technologies, appropriate physical facilities and support services at an affordable cost"
+</body>
+</html>
+]]>
+    </string>
+    <string name="ddescription">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+ A teaching hospital is a hospital or medical center that provides clinical education and training to future and current health professionals. Teaching hospitals are often affiliated with medical schools and work closely with medical students throughout their period of matriculation, and especially during their clerkship (internship) years. In most cases, teaching hospitals also offer Graduate Medical Education (GME)/ physician residency programs, where medical school graduates train under a supervising (attending) physician to assist with the coordination of care.
+In addition to offering medical education to medical students and physician residents, many teaching hospitals also serve as research institutes.
+</body>
+</html>
+]]>
+    </string>
+    <string name="edescription">
+    <![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:black;background-colorwhite;">
+ A teaching hospital is a hospital or medical center that provides clinical education and training to future and current health professionals. Teaching hospitals are often affiliated with medical schools and work closely with medical students throughout their period of matriculation, and especially during their clerkship (internship) years. In most cases, teaching hospitals also offer Graduate Medical Education (GME)/ physician residency programs, where medical school graduates train under a supervising (attending) physician to assist with the coordination of care.
+In addition to offering medical education to medical students and physician residents, many teaching hospitals also serve as research institutes.
+</body>
+</html>
+]]>
+    </string>
+
+
+</resources>

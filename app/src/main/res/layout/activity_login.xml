@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+
+        <ImageView
+            android:id="@+id/imagecross"
+            android:layout_width="226dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/hospital"
+            android:layout_marginTop="20dp"/>
+
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="15dp"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_button"
+            android:hint="Username"
+            android:gravity="center"
+            android:id="@+id/loginemail"
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <EditText
+            android:id="@+id/loginPass"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:inputType="textPassword"
+            android:background="@drawable/shape_button"
+            android:gravity="center"
+            android:hint="Your password"
+            android:padding="10dp" />
+
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Remember me"
+            android:id="@+id/cbvisible"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            />
+
+
+        <Button
+            android:background="@drawable/shape_button"
+            android:id="@+id/btnlogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+            <TextView
+                android:id="@+id/login_forgotpwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Forgot password??"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center"
+                android:id="@+id/CreateUser"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="New? Register here!!"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="75dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:src="@drawable/fb" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="53dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:src="@drawable/mail" />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_weight="1"
+                android:src="@drawable/link" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
